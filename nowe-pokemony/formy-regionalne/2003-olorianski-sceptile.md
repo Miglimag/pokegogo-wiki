@@ -19,15 +19,25 @@ layout:
     visible: true
 ---
 
-# #2003 - Sceptile
+# #2003 - Oloriański Sceptile
 
 {% columns %}
 {% column width="50%" %}
+<a href="./" class="button secondary small">&#x3C;——–</a>
+
 <details>
 
 <summary>Zobacz Jak Wygląda (Spoiler)</summary>
 
 <figure><img src="../../.gitbook/assets/sceptile_olorian_screen.png" alt="" width="248"><figcaption></figcaption></figure>
+
+</details>
+
+<details>
+
+<summary>SHINY!! (Spoiler)</summary>
+
+<figure><img src="../../.gitbook/assets/sceptile_olorian_shiny_screen.png" alt=""><figcaption></figcaption></figure>
 
 </details>
 {% endcolumn %}
@@ -39,7 +49,7 @@ layout:
 
 ***
 
-<mark style="color:$info;">Waga</mark> 42.2 kg (93 lbs)
+<mark style="color:$info;">Waga</mark> 42.2 kg (93.0 lbs)
 
 ***
 
@@ -48,7 +58,7 @@ layout:
 ***
 
 <mark style="color:$info;">Abilities</mark> Insomnia[^1]\
-Infiltrator[^2] <mark style="color:$info;">(Hidden Ability)</mark>
+&#x20;             Infiltrator[^2] <mark style="color:$info;">(Hidden Ability)</mark>
 
 ***
 
@@ -96,7 +106,7 @@ Infiltrator[^2] <mark style="color:$info;">(Hidden Ability)</mark>
 {% endcolumn %}
 
 {% column width="24.999999999999996%" %}
-22 130
+202 350
 {% endcolumn %}
 {% endcolumns %}
 
@@ -200,7 +210,11 @@ Infiltrator[^2] <mark style="color:$info;">(Hidden Ability)</mark>
 {% endcolumn %}
 {% endcolumns %}
 
-###
+### **Drzewko Ewolucyjne**
+
+<h4 align="center">Treecko     —>     Grovyle     —>     Sceptile<br>  <img src="../../.gitbook/assets/dark.png" alt="">        <sup>(Level 16)</sup>      <img src="../../.gitbook/assets/dark.png" alt=""><img src="../../.gitbook/assets/electric.png" alt="">     <sup>(Level 36)</sup>      <img src="../../.gitbook/assets/dark.png" alt=""><img src="../../.gitbook/assets/electric.png" alt=""></h4>
+
+
 
 {% columns %}
 {% column %}
@@ -220,10 +234,14 @@ Infiltrator[^2] <mark style="color:$info;">(Hidden Ability)</mark>
 {% endcolumn %}
 {% endcolumns %}
 
-<h3 align="center"><strong>Ruchy</strong></h3>
+<h3 align="center"><strong>Ruchy Sceptile'a</strong></h3>
 
 {% columns %}
 {% column %}
+#### Uczone Poprzez Ewolucje
+
+![](../../.gitbook/assets/dark.png) [Dread Current](#user-content-fn-3)[^3]
+
 #### Uczone Poprzez Level-Up
 
 <mark style="color:$info;">1</mark>  ![](../../.gitbook/assets/dark.png) Night Slash\
@@ -255,73 +273,22 @@ Infiltrator[^2] <mark style="color:$info;">(Hidden Ability)</mark>
 {% column %}
 #### Uczone Poprzez TM
 
-Acrobatics\
-Aerial Ace\
-Agility\
-Assurance\
-Body Slam\
-Breaking Swipe\
-Brick Break\
-Brutal Swing\
-Bulldoze\
-Bullet Seed\
-Cross Poison\
-Crunch\
-Cut\
-Dig\
-Double-Edge\
-Double Team\
-Dragon Cheer\
-Dragon Claw\
-Dragon Dance\
-Dragon Pulse\
-Dragon Tail\
-Drain Punch\
-Dual Chop\
-Earthquake\
-Endeavor\
-Endure\
-Energy Ball\
-Facade\
-False Swipe\
-Flash\
-Fling\
-Focus Blast\
-Focus Punch\
-Frenzy Plant\
-Fury Cutter\
-Giga Drain\
-Giga Impact\
-Grass Knot\
-Grass Pledge\
-Grassy Glide\
-Grassy Terrain\
-Headbutt\
-Helping Hand\
-Hone Claws\
-Hyper Beam\
-Iron Tail\
-Laser Focus\
-Leaf Blade\
-Leaf Storm\
-Low Kick\
-Low Sweep\
-Magical Leaf\
-Mega Kick\
-Mega Punch\
-Natural Gift\
-Nature Power\
-Outrage\
-Power-Up Punch\
-Protect\
-Rest\
-Roar\
-\
-\
-<br>
+Ekskluzywne Dla Regionalnej Formy:
+
+![](../../.gitbook/assets/electric.png) Nuzzle\
+![](../../.gitbook/assets/dark.png) Throat Chop\
+![](../../.gitbook/assets/electric.png) Thunder Wave\
+![](../../.gitbook/assets/electric.png) Volt Switch\
+![](../../.gitbook/assets/electric.png) Wild Charge
+
+#### Reszte Można Sprawdzić Na [Pokemon Database](https://pokemondb.net/pokedex/sceptile)
+
+<sub><mark style="color:$info;">Wszystkie Ruchy Są Dodawane Ręcznie, Dlatego Reszta Nie Została Wypisana<mark style="color:$info;"></sub>
 {% endcolumn %}
 {% endcolumns %}
 
 [^1]: _Insomnia_ prevents the ability-bearer from falling asleep, both from moves by other Pokémon like Sing, and self-inflicted sleep like Rest.
 
 [^2]: _Infiltrator_ ignores the effects of Reflect, Light Screen and Safeguard. In other words, if the opponent has used Safeguard, Toxic would still badly poison them.
+
+[^3]: **| 60 BP | 10 PP | 100% Accuracy |** _Dread Current_ deals damage and has a 30% chance chance of paralyzed the target. If the target is already paralyzed, its power is doubled.

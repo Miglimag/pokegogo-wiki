@@ -1,14 +1,10 @@
 # Table of contents
 
-* [Welcome](README.md)
-
-## Getting Started
-
-* [Getting started](getting-started/getting-started.md)
-* [Quickstart](getting-started/quickstart.md)
-* [Your first project](getting-started/your-first-project.md)
+* [Witaj na Wiki PokeGoGo!](README.md)
 
 ## Nowe Pokemony
 
 * [Formy Regionalne](nowe-pokemony/formy-regionalne/README.md)
-  * [#2003 - Sceptile](nowe-pokemony/formy-regionalne/2003-sceptile.md)
+  * [#2003 - Oloriański Sceptile](nowe-pokemony/formy-regionalne/2003-olorianski-sceptile.md)
+  * [#2006 - Oloriański Cinderace](nowe-pokemony/formy-regionalne/2006-olorianski-cinderace.md)
+  * [#2009 - Oloriański Empoleon](nowe-pokemony/formy-regionalne/2009-olorianski-empoleon.md)

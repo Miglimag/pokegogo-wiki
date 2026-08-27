@@ -1,33 +1,39 @@
+---
+description: >-
+  Nasz serwer wprowadza nowe formy regionalne dla poszczególny pokemonów. Tutaj
+  możesz się dowiedzieć co każdy z nich potrafi ;D
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Formy Regionalne
 
-## Quickstart
-
-Beautiful documentation starts with the content you create — and GitBook makes it easy to get started with any pre-existing content
-
 {% columns %}
-{% column %}
-<figure><img src="https://gitbookio.github.io/space-quickstart-images/import-panel.svg" alt=""><figcaption></figcaption></figure>
+{% column width="33.33333333333333%" %}
+<a href="2003-olorianski-sceptile.md" class="button secondary">Oloriański Sceptile</a>
 {% endcolumn %}
 
-{% column %}
-#### Import
-
-GitBook supports importing content from many popular writing tools and formats. If your content already exists, you can upload a file or group of files to be imported.
-
-<a href="https://gitbook.com/docs/getting-started/import" class="button primary">Learn more</a>
-{% endcolumn %}
-{% endcolumns %}
-
-{% columns %}
-{% column %}
-#### Sync a repository
-
-GitBook also allows you to set up a bi-directional sync with an existing repository on GitHub or GitLab. Setting up Git Sync allows you and your team to write content in GitBook or in code, and never have to worry about your content becoming out of sync.
-
-<a href="https://gitbook.com/docs/getting-started/git-sync" class="button primary">Connect now</a>
+{% column width="33.33333333333333%" %}
+<a href="2006-olorianski-cinderace.md" class="button secondary">Oloriański Cinderace</a>
 {% endcolumn %}
 
-{% column %}
-<figure><img src="https://gitbookio.github.io/space-quickstart-images/sync-repo.svg" alt=""><figcaption></figcaption></figure>
+{% column width="33.33333333333334%" %}
+<a href="2009-olorianski-empoleon.md" class="button secondary">Oloriański Empoleon</a>
 {% endcolumn %}
 {% endcolumns %}
