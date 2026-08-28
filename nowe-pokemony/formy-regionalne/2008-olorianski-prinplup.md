@@ -19,7 +19,7 @@ layout:
     visible: true
 ---
 
-# #2009 - Oloriański Empoleon
+# #2008 - Oloriański Prinplup
 
 {% columns %}
 {% column width="50%" %}
@@ -45,15 +45,15 @@ layout:
 {% column width="50.000000000000014%" %}
 ***
 
-<mark style="color:$info;">Gatunek</mark> Pokémon Strażnik Granicy
+<mark style="color:$info;">Gatunek</mark> Pokémon Wojownik
 
 ***
 
-<mark style="color:$info;">Waga</mark> 84.5 kg (186.3 lbs)
+<mark style="color:$info;">Waga</mark> 23.0 kg (50.7 lbs)
 
 ***
 
-<mark style="color:$info;">Type</mark> ![](../../.gitbook/assets/fighting.png) Fighting / ![](../../.gitbook/assets/ice.png) Ice
+<mark style="color:$info;">Type</mark> ![](../../.gitbook/assets/fighting.png) Fighting
 
 ***
 
@@ -62,7 +62,7 @@ layout:
 
 ***
 
-<mark style="color:$info;">Local №</mark> #0009
+<mark style="color:$info;">Local №</mark> #0008
 
 ***
 {% endcolumn %}
@@ -78,55 +78,7 @@ layout:
 {% endcolumn %}
 
 {% column width="8.333333333333334%" %}
-100
-{% endcolumn %}
-
-{% column width="75%" %}
-▮▮▮▮▮▮▮▮▮▮
-{% endcolumn %}
-{% endcolumns %}
-
-***
-
-{% columns %}
-{% column width="16.666666666666664%" %}
-<p align="right"><mark style="color:$info;">Attack</mark></p>
-{% endcolumn %}
-
-{% column width="8.333333333333334%" %}
-120
-{% endcolumn %}
-
-{% column width="75%" %}
-▮▮▮▮▮▮▮▮▮▮▮▮
-{% endcolumn %}
-{% endcolumns %}
-
-***
-
-{% columns %}
-{% column width="16.666666666666664%" %}
-<p align="right"><mark style="color:$info;">Defence</mark></p>
-{% endcolumn %}
-
-{% column width="8.333333333333334%" %}
-95
-{% endcolumn %}
-
-{% column width="75%" %}
-▮▮▮▮▮▮▮▮▮▮
-{% endcolumn %}
-{% endcolumns %}
-
-***
-
-{% columns %}
-{% column width="16.666666666666664%" %}
-<p align="right"><mark style="color:$info;">Sp. Atk</mark></p>
-{% endcolumn %}
-
-{% column width="8.333333333333334%" %}
-65
+69
 {% endcolumn %}
 
 {% column width="75%" %}
@@ -138,15 +90,63 @@ layout:
 
 {% columns %}
 {% column width="16.666666666666664%" %}
+<p align="right"><mark style="color:$info;">Attack</mark></p>
+{% endcolumn %}
+
+{% column width="8.333333333333334%" %}
+81
+{% endcolumn %}
+
+{% column width="75%" %}
+▮▮▮▮▮▮▮▮▮
+{% endcolumn %}
+{% endcolumns %}
+
+***
+
+{% columns %}
+{% column width="16.666666666666664%" %}
+<p align="right"><mark style="color:$info;">Defence</mark></p>
+{% endcolumn %}
+
+{% column width="8.333333333333334%" %}
+68
+{% endcolumn %}
+
+{% column width="75%" %}
+▮▮▮▮▮▮▮
+{% endcolumn %}
+{% endcolumns %}
+
+***
+
+{% columns %}
+{% column width="16.666666666666664%" %}
+<p align="right"><mark style="color:$info;">Sp. Atk</mark></p>
+{% endcolumn %}
+
+{% column width="8.333333333333334%" %}
+61
+{% endcolumn %}
+
+{% column width="75%" %}
+▮▮▮▮▮▮
+{% endcolumn %}
+{% endcolumns %}
+
+***
+
+{% columns %}
+{% column width="16.666666666666664%" %}
 <p align="right"><mark style="color:$info;">Sp. Def</mark></p>
 {% endcolumn %}
 
 {% column width="8.333333333333334%" %}
-105
+76
 {% endcolumn %}
 
 {% column width="75%" %}
-▮▮▮▮▮▮▮▮▮▮▮
+▮▮▮▮▮▮▮▮
 {% endcolumn %}
 {% endcolumns %}
 
@@ -158,7 +158,7 @@ layout:
 {% endcolumn %}
 
 {% column width="8.333333333333334%" %}
-45
+50
 {% endcolumn %}
 
 {% column width="75%" %}
@@ -174,7 +174,7 @@ layout:
 {% endcolumn %}
 
 {% column width="16.666666666666664%" %}
-**530**
+**405**
 {% endcolumn %}
 
 {% column width="66.66666666666667%" %}
@@ -184,9 +184,9 @@ layout:
 
 ### **Odporności na inne typy**
 
-<sup><mark style="color:$info;">Efektywność każdego typu na Empoleon'a<mark style="color:$info;"></sup>
+<sup><mark style="color:$info;">Efektywność każdego typu na Prinplup'a<mark style="color:$info;"></sup>
 
-<table data-header-hidden><thead><tr><th width="80" align="center"></th><th width="80" align="center"></th><th width="80" align="center"></th><th width="80" align="center"></th><th width="80" align="center"></th><th width="80" align="center"></th><th width="80" align="center"></th><th width="80" align="center"></th><th width="80" align="center"></th></tr></thead><tbody><tr><td align="center"><img src="../../.gitbook/assets/normal.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/fire.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/water.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/electric.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/grass.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/ice.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/fighting.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/poison.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/ground.png" alt=""></td></tr><tr><td align="center"></td><td align="center"><mark style="color:$success;">2</mark></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"><mark style="color:$warning;">½</mark></td><td align="center"><mark style="color:$success;">2</mark></td><td align="center"></td><td align="center"></td></tr><tr><td align="center"><img src="../../.gitbook/assets/flying.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/psychic.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/bug.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/rock.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/ghost.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/dragon.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/dark.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/steel.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/fairy.png" alt=""></td></tr><tr><td align="center"><mark style="color:$success;">2</mark></td><td align="center"><mark style="color:$success;">2</mark></td><td align="center"><mark style="color:$warning;">½</mark></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"><mark style="color:$warning;">½</mark></td><td align="center"><mark style="color:$success;">2</mark></td><td align="center"><mark style="color:$success;">2</mark></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="80" align="center"></th><th width="80" align="center"></th><th width="80" align="center"></th><th width="80" align="center"></th><th width="80" align="center"></th><th width="80" align="center"></th><th width="80" align="center"></th><th width="80" align="center"></th><th width="80" align="center"></th></tr></thead><tbody><tr><td align="center"><img src="../../.gitbook/assets/normal.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/fire.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/water.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/electric.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/grass.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/ice.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/fighting.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/poison.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/ground.png" alt=""></td></tr><tr><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td></tr><tr><td align="center"><img src="../../.gitbook/assets/flying.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/psychic.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/bug.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/rock.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/ghost.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/dragon.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/dark.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/steel.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/fairy.png" alt=""></td></tr><tr><td align="center"><mark style="color:$success;">2</mark></td><td align="center"><mark style="color:$success;">2</mark></td><td align="center"><mark style="color:$warning;">½</mark></td><td align="center"><mark style="color:$warning;">½</mark></td><td align="center"></td><td align="center"></td><td align="center"><mark style="color:$warning;">½</mark></td><td align="center"></td><td align="center"><mark style="color:$success;">2</mark></td></tr></tbody></table>
 
 ### **Drzewko ewolucyjne**
 
@@ -198,7 +198,7 @@ layout:
 {% column %}
 ### **Trening**
 
-<mark style="color:$info;">EV Yield</mark> 3 Defence
+<mark style="color:$info;">EV Yield</mark> 2 Defence
 
 <mark style="color:$info;">Catch Rate</mark> 45 <mark style="color:$info;">(5.9% with Pokeball, Full HP)</mark>
 {% endcolumn %}
@@ -212,14 +212,10 @@ layout:
 {% endcolumn %}
 {% endcolumns %}
 
-<h3 align="center"><strong>Ruchy Empoleon'a</strong></h3>
+<h3 align="center"><strong>Ruchy Prinplup'a</strong></h3>
 
 {% columns %}
 {% column %}
-#### Uczone poprzez ewolucje
-
-![](../../.gitbook/assets/fighting.png) [Anchor Slam](#user-content-fn-3)[^3]
-
 #### Uczone poprzez Level-Up
 
 <mark style="color:$info;">1</mark>  ![](../../.gitbook/assets/normal.png) Tackle\
@@ -236,12 +232,10 @@ layout:
 <mark style="color:$info;">24</mark>  ![](../../.gitbook/assets/normal.png) Swagger\
 <mark style="color:$info;">28</mark>  ![](../../.gitbook/assets/ice.png) Ice Punch\
 <mark style="color:$info;">33</mark>  ![](../../.gitbook/assets/normal.png) Slam\
-<mark style="color:$info;">36</mark>  ![](../../.gitbook/assets/fighting.png) Brick Break\
-<mark style="color:$info;">39</mark>  ![](../../.gitbook/assets/ice.png) Ice Hammer\
-<mark style="color:$info;">46</mark>  ![](../../.gitbook/assets/ice.png) Haze\
-<mark style="color:$info;">52</mark>  ![](../../.gitbook/assets/flying.png) Drill Peck\
-<mark style="color:$info;">59</mark>  ![](../../.gitbook/assets/ice.png) [Glacial Bastion](#user-content-fn-4)[^4]\
-<mark style="color:$info;">66</mark>  ![](../../.gitbook/assets/fighting.png) Hammer Arm
+<mark style="color:$info;">37</mark>  ![](../../.gitbook/assets/fighting.png) Brick Break\
+<mark style="color:$info;">42</mark>  ![](../../.gitbook/assets/ice.png) Haze\
+<mark style="color:$info;">46</mark>  ![](../../.gitbook/assets/flying.png) Drill Peck\
+<mark style="color:$info;">50</mark>  ![](../../.gitbook/assets/fighting.png) Hammer Arm
 {% endcolumn %}
 
 {% column %}
@@ -255,7 +249,7 @@ Ekskluzywne dla regionalnej formy:
 ![](../../.gitbook/assets/fairy.png) Misty Terrain\
 ![](../../.gitbook/assets/water.png) Wave Crash
 
-#### Reszte można sprawdzić na [Pokemon Database](https://pokemondb.net/pokedex/empoleon)
+#### Reszte można sprawdzić na [Pokemon Database](https://pokemondb.net/pokedex/prinplup)
 
 <sub><mark style="color:$info;">Wszystkie ruchy są dodawane ręcznie, dlatego reszta nie została wypisana<mark style="color:$info;"></sub>
 {% endcolumn %}
@@ -264,7 +258,3 @@ Ekskluzywne dla regionalnej formy:
 [^1]: _Battle Armor_ chroni Pokémona przed otrzymaniem trafienia krytycznego.
 
 [^2]: _Stamina_ zwiększa Defence posiadacza o jeden poziom, gdy zostanie on zaatakowany dowolnym ruchem.
-
-[^3]: **| 70 BP | 10 PP | 100% Accuracy |** Użytkownik uderza cel ciężką kotwicą, unieruchamiając go w miejscu. Cel traci możliwość ucieczki.
-
-[^4]: **| Status | 10 PP |** **+4 Priority |** _Glacial Bastion_ zapobiega trafieniu użytkownika przez jakiekolwiek ataki wymierzone w niego w danej turze. Jeśli w tej turze użytkownik ruchu Glacial Bastion zostanie zaatakowany techniką wymagającą kontaktu fizycznego, atakujący otrzymuje obrażenia równe ⅛ maks HP.

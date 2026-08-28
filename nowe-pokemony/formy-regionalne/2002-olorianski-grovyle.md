@@ -19,7 +19,7 @@ layout:
     visible: true
 ---
 
-# #2003 - Oloriański Sceptile
+# #2002 - Oloriański Grovyle
 
 {% columns %}
 {% column width="50%" %}
@@ -29,7 +29,7 @@ layout:
 
 <summary>Zobacz jak wygląda (Spoiler)</summary>
 
-<figure><img src="../../.gitbook/assets/sceptile_olorian_screen.png" alt="" width="248"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/treecko_olorian_screen.png" alt=""><figcaption></figcaption></figure>
 
 </details>
 
@@ -37,7 +37,7 @@ layout:
 
 <summary>SHINY!! (Spoiler)</summary>
 
-<figure><img src="../../.gitbook/assets/sceptile_olorian_shiny_screen.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/treecko_olorian_shiny_screen.png" alt=""><figcaption></figcaption></figure>
 
 </details>
 {% endcolumn %}
@@ -45,11 +45,11 @@ layout:
 {% column width="50.000000000000014%" %}
 ***
 
-<mark style="color:$info;">Gatunek</mark> Pokémon Paraliż Senny
+<mark style="color:$info;">Gatunek</mark> Pokémon Cień
 
 ***
 
-<mark style="color:$info;">Waga</mark> 42.2 kg (93.0 lbs)
+<mark style="color:$info;">Waga</mark> 21.6 kg (47.6 lbs)
 
 ***
 
@@ -62,7 +62,7 @@ layout:
 
 ***
 
-<mark style="color:$info;">Local №</mark> #0003
+<mark style="color:$info;">Local №</mark> #0002
 
 ***
 {% endcolumn %}
@@ -78,11 +78,11 @@ layout:
 {% endcolumn %}
 
 {% column width="8.333333333333334%" %}
-70
+50
 {% endcolumn %}
 
 {% column width="75%" %}
-▮▮▮▮▮▮▮
+▮▮▮▮▮
 {% endcolumn %}
 {% endcolumns %}
 
@@ -94,11 +94,11 @@ layout:
 {% endcolumn %}
 
 {% column width="8.333333333333334%" %}
-110
+90
 {% endcolumn %}
 
 {% column width="75%" %}
-▮▮▮▮▮▮▮▮▮▮▮
+▮▮▮▮▮▮▮▮▮
 {% endcolumn %}
 {% endcolumns %}
 
@@ -110,11 +110,11 @@ layout:
 {% endcolumn %}
 
 {% column width="8.333333333333334%" %}
-70
+45
 {% endcolumn %}
 
 {% column width="75%" %}
-▮▮▮▮▮▮▮
+▮▮▮▮▮
 {% endcolumn %}
 {% endcolumns %}
 
@@ -126,11 +126,11 @@ layout:
 {% endcolumn %}
 
 {% column width="8.333333333333334%" %}
-75
+55
 {% endcolumn %}
 
 {% column width="75%" %}
-▮▮▮▮▮▮▮▮
+▮▮▮▮▮▮
 {% endcolumn %}
 {% endcolumns %}
 
@@ -142,11 +142,11 @@ layout:
 {% endcolumn %}
 
 {% column width="8.333333333333334%" %}
-75
+65
 {% endcolumn %}
 
 {% column width="75%" %}
-▮▮▮▮▮▮▮▮
+▮▮▮▮▮▮▮
 {% endcolumn %}
 {% endcolumns %}
 
@@ -158,11 +158,11 @@ layout:
 {% endcolumn %}
 
 {% column width="8.333333333333334%" %}
-130
+100
 {% endcolumn %}
 
 {% column width="75%" %}
-▮▮▮▮▮▮▮▮▮▮▮▮▮
+▮▮▮▮▮▮▮▮▮▮
 {% endcolumn %}
 {% endcolumns %}
 
@@ -174,7 +174,7 @@ layout:
 {% endcolumn %}
 
 {% column width="16.666666666666664%" %}
-**530**
+**405**
 {% endcolumn %}
 
 {% column width="66.66666666666667%" %}
@@ -184,7 +184,7 @@ layout:
 
 ### **Odporności na inne typy**
 
-<sup><mark style="color:$info;">Efektywność każdego typu na Sceptile'a<mark style="color:$info;"></sup>
+<sup><mark style="color:$info;">Efektywność każdego typu na Grovyle'a<mark style="color:$info;"></sup>
 
 <table data-header-hidden><thead><tr><th width="80" align="center"></th><th width="80" align="center"></th><th width="80" align="center"></th><th width="80" align="center"></th><th width="80" align="center"></th><th width="80" align="center"></th><th width="80" align="center"></th><th width="80" align="center"></th><th width="80" align="center"></th></tr></thead><tbody><tr><td align="center"><img src="../../.gitbook/assets/normal.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/fire.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/water.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/electric.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/grass.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/ice.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/fighting.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/poison.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/ground.png" alt=""></td></tr><tr><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"><mark style="color:$warning;">½</mark></td><td align="center"></td><td align="center"></td><td align="center"><mark style="color:$success;">2</mark></td><td align="center"></td><td align="center"><mark style="color:$success;">2</mark></td></tr><tr><td align="center"><img src="../../.gitbook/assets/flying.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/psychic.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/bug.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/rock.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/ghost.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/dragon.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/dark.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/steel.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/fairy.png" alt=""></td></tr><tr><td align="center"><mark style="color:$warning;">½</mark></td><td align="center"><mark style="color:$info;">0</mark></td><td align="center"><mark style="color:$success;">2</mark></td><td align="center"></td><td align="center"><mark style="color:$warning;">½</mark></td><td align="center"></td><td align="center"><mark style="color:$warning;">½</mark></td><td align="center"><mark style="color:$warning;">½</mark></td><td align="center"><mark style="color:$success;">2</mark></td></tr></tbody></table>
 
@@ -198,7 +198,7 @@ layout:
 {% column %}
 ### **Trening**
 
-<mark style="color:$info;">EV Yield</mark> 3 Speed
+<mark style="color:$info;">EV Yield</mark> 2 Speed
 
 <mark style="color:$info;">Catch Rate</mark> 45 <mark style="color:$info;">(5.9% with Pokeball, Full HP)</mark>
 {% endcolumn %}
@@ -212,14 +212,10 @@ layout:
 {% endcolumn %}
 {% endcolumns %}
 
-<h3 align="center"><strong>Ruchy Sceptile'a</strong></h3>
+<h3 align="center"><strong>Ruchy Grovyle'a</strong></h3>
 
 {% columns %}
 {% column %}
-#### Uczone poprzez ewolucje
-
-![](../../.gitbook/assets/dark.png) [Dread Current](#user-content-fn-3)[^3]
-
 #### Uczone poprzez Level-Up
 
 <mark style="color:$info;">1</mark>  ![](../../.gitbook/assets/dark.png) Night Slash\
@@ -229,22 +225,22 @@ layout:
 <mark style="color:$info;">1</mark>  ![](../../.gitbook/assets/normal.png) Quick Attack\
 <mark style="color:$info;">1</mark>  ![](../../.gitbook/assets/bug.png) X-Scissor\
 <mark style="color:$info;">1</mark>  ![](../../.gitbook/assets/dark.png) Pursuit\
-<mark style="color:$info;">1</mark>  ![](../../.gitbook/assets/electric.png) Thunder Shock\
 <mark style="color:$info;">1</mark>  ![](../../.gitbook/assets/psychic.png) Agility\
 <mark style="color:$info;">1</mark>  ![](../../.gitbook/assets/normal.png)False Swipe\
 <mark style="color:$info;">1</mark>  ![](../../.gitbook/assets/bug.png) Fury Cutter\
 <mark style="color:$info;">1</mark>  ![](../../.gitbook/assets/electric.png) Spark\
 <mark style="color:$info;">1</mark>  ![](../../.gitbook/assets/dragon.png) Dual Chop\
-<mark style="color:$info;">5</mark>  ![](../../.gitbook/assets/electric.png) Thunder Wave\
-<mark style="color:$info;">12</mark>  ![](../../.gitbook/assets/electric.png) Volt Switch\
-<mark style="color:$info;">15</mark>  ![](../../.gitbook/assets/fighting.png) Quick Guard\
-<mark style="color:$info;">20</mark>  ![](../../.gitbook/assets/dark.png) Assurance\
-<mark style="color:$info;">25</mark>  ![](../../.gitbook/assets/fighting.png) Detect\
-<mark style="color:$info;">30</mark>  ![](../../.gitbook/assets/electric.png) Wild Charge\
-<mark style="color:$info;">35</mark>  ![](../../.gitbook/assets/dark.png) Crunch\
-<mark style="color:$info;">42</mark>  ![](../../.gitbook/assets/normal.png) Screech\
-<mark style="color:$info;">49</mark>  ![](../../.gitbook/assets/dark.png) Taunt\
-<mark style="color:$info;">56</mark>  ![](../../.gitbook/assets/dragon.png) Breaking Swipe
+<mark style="color:$info;">9</mark>  ![](../../.gitbook/assets/electric.png) Thunder Shock\
+<mark style="color:$info;">12</mark>  ![](../../.gitbook/assets/electric.png) Thunder Wave\
+<mark style="color:$info;">15</mark>  ![](../../.gitbook/assets/electric.png) Volt Switch\
+<mark style="color:$info;">20</mark>  ![](../../.gitbook/assets/fighting.png) Quick Guard\
+<mark style="color:$info;">25</mark>  ![](../../.gitbook/assets/dark.png) Assurance\
+<mark style="color:$info;">30</mark>  ![](../../.gitbook/assets/fighting.png) Detect\
+<mark style="color:$info;">35</mark>  ![](../../.gitbook/assets/electric.png) Wild Charge\
+<mark style="color:$info;">40</mark>  ![](../../.gitbook/assets/dark.png) Crunch\
+<mark style="color:$info;">45</mark>  ![](../../.gitbook/assets/normal.png) Screech\
+<mark style="color:$info;">50</mark>  ![](../../.gitbook/assets/dark.png) Taunt\
+<mark style="color:$info;">55</mark>  ![](../../.gitbook/assets/dragon.png) Breaking Swipe
 {% endcolumn %}
 
 {% column %}
@@ -258,7 +254,7 @@ Ekskluzywne dla regionalnej formy:
 ![](../../.gitbook/assets/electric.png) Volt Switch\
 ![](../../.gitbook/assets/electric.png) Wild Charge
 
-#### Reszte można sprawdzić na [Pokemon Database](https://pokemondb.net/pokedex/sceptile)
+#### Reszte można sprawdzić na [Pokemon Database](https://pokemondb.net/pokedex/grovyle)
 
 <sub><mark style="color:$info;">Wszystkie ruchy są dodawane ręcznie, dlatego reszta nie została wypisana<mark style="color:$info;"></sub>
 {% endcolumn %}
@@ -267,5 +263,3 @@ Ekskluzywne dla regionalnej formy:
 [^1]: _Insomnia_ uniemożliwia posiadaczowi zapadnięcie w sen – zarówno w wyniku działania ruchów innych Pokémonów (takich jak Sing), jak i w przypadku prób samodzielnego wywołania snu (np. poprzez ruch Rest).
 
 [^2]: _Infiltrator_ ignoruje działanie ruchów Reflect, Light Screen oraz Safeguard. Innymi słowy, jeśli przeciwnik użył Safeguard, ruch Toxic nadal spowoduje u niego silne zatrucie (badly poisoned).
-
-[^3]: **| 60 BP | 10 PP | 100% Accuracy |** _Dread Current_ zadaje obrażenia i ma 30% szansy na sparaliżowanie celu. Jeśli cel jest już sparaliżowany, siła ataku ulega podwojeniu.

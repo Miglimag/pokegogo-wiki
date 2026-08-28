@@ -29,4 +29,6 @@ layout:
 
 ***
 
-<table data-view="cards"><thead><tr><th></th><th data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td></td></tr></tbody></table>
+<h3 align="center">✨ Nowości ✨</h3>
+
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><h4><strong>Nowy region</strong></h4><p>Nasz serwer wprowadził nowy, własno zrobiony region z orginalnymi formami regionalnymi.</p></td><td><a href="nowe-pokemony/formy-regionalne/">formy-regionalne</a></td></tr></tbody></table>

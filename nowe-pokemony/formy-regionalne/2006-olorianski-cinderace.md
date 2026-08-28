@@ -27,9 +27,9 @@ layout:
 
 <details>
 
-<summary>Zobacz Jak Wygląda (Spoiler)</summary>
+<summary>Zobacz jak wygląda (Spoiler)</summary>
 
-<figure><img src="../../.gitbook/assets/sceptile_olorian_screen.png" alt="" width="248"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/cinderace_olorian_screen.png" alt=""><figcaption></figcaption></figure>
 
 </details>
 
@@ -37,7 +37,7 @@ layout:
 
 <summary>SHINY!! (Spoiler)</summary>
 
-<figure><img src="../../.gitbook/assets/sceptile_olorian_shiny_screen.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/cinderace_olorian_shiny_screen.png" alt=""><figcaption></figcaption></figure>
 
 </details>
 {% endcolumn %}
@@ -45,7 +45,7 @@ layout:
 {% column width="50.000000000000014%" %}
 ***
 
-<mark style="color:$info;">Gatunek</mark> Pokemon Astralny Śniący
+<mark style="color:$info;">Gatunek</mark> Pokémon Astralny Śniący
 
 ***
 
@@ -68,7 +68,7 @@ layout:
 {% endcolumn %}
 {% endcolumns %}
 
-### **Bazowe Statystyki**
+### **Bazowe statystyki**
 
 ***
 
@@ -81,12 +81,8 @@ layout:
 75
 {% endcolumn %}
 
-{% column width="50%" %}
+{% column width="75%" %}
 ▮▮▮▮▮▮▮▮
-{% endcolumn %}
-
-{% column width="25%" %}
-260 354
 {% endcolumn %}
 {% endcolumns %}
 
@@ -101,12 +97,8 @@ layout:
 70
 {% endcolumn %}
 
-{% column width="50%" %}
+{% column width="75%" %}
 ▮▮▮▮▮▮▮
-{% endcolumn %}
-
-{% column width="24.999999999999996%" %}
-130 262
 {% endcolumn %}
 {% endcolumns %}
 
@@ -121,12 +113,8 @@ layout:
 70
 {% endcolumn %}
 
-{% column width="50%" %}
+{% column width="75%" %}
 ▮▮▮▮▮▮▮
-{% endcolumn %}
-
-{% column width="24.999999999999996%" %}
-130 262
 {% endcolumn %}
 {% endcolumns %}
 
@@ -141,12 +129,8 @@ layout:
 125
 {% endcolumn %}
 
-{% column width="50%" %}
+{% column width="75%" %}
 ▮▮▮▮▮▮▮▮▮▮▮▮▮
-{% endcolumn %}
-
-{% column width="24.999999999999996%" %}
-229 383
 {% endcolumn %}
 {% endcolumns %}
 
@@ -161,12 +145,8 @@ layout:
 80
 {% endcolumn %}
 
-{% column width="50%" %}
+{% column width="75%" %}
 ▮▮▮▮▮▮▮▮
-{% endcolumn %}
-
-{% column width="24.999999999999996%" %}
-148 284
 {% endcolumn %}
 {% endcolumns %}
 
@@ -181,12 +161,8 @@ layout:
 110
 {% endcolumn %}
 
-{% column width="50%" %}
+{% column width="75%" %}
 ▮▮▮▮▮▮▮▮▮▮▮
-{% endcolumn %}
-
-{% column width="24.999999999999996%" %}
-202 350
 {% endcolumn %}
 {% endcolumns %}
 
@@ -201,16 +177,20 @@ layout:
 **530**
 {% endcolumn %}
 
-{% column width="41.66666666666667%" %}
+{% column width="66.66666666666667%" %}
 
-{% endcolumn %}
-
-{% column width="24.999999999999996%" %}
-<mark style="color:$info;">Min Max</mark>
 {% endcolumn %}
 {% endcolumns %}
 
-### **Drzewko Ewolucyjne**
+### **Odporności na inne typy**
+
+<sup><mark style="color:$info;">Efektywność każdego typu na Cinderace'a<mark style="color:$info;"></sup>
+
+<table data-header-hidden><thead><tr><th width="80" align="center"></th><th width="80" align="center"></th><th width="80" align="center"></th><th width="80" align="center"></th><th width="80" align="center"></th><th width="80" align="center"></th><th width="80" align="center"></th><th width="80" align="center"></th><th width="80" align="center"></th></tr></thead><tbody><tr><td align="center"><img src="../../.gitbook/assets/normal.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/fire.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/water.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/electric.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/grass.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/ice.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/fighting.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/poison.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/ground.png" alt=""></td></tr><tr><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"><mark style="color:$success;">2</mark></td><td align="center"><mark style="color:$warning;">½</mark></td><td align="center"><mark style="color:$success;">2</mark></td><td align="center"><mark style="color:$danger;">¼</mark></td><td align="center"></td><td align="center"><mark style="color:$info;">0</mark></td></tr><tr><td align="center"><img src="../../.gitbook/assets/flying.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/psychic.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/bug.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/rock.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/ghost.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/dragon.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/dark.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/steel.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/fairy.png" alt=""></td></tr><tr><td align="center"></td><td align="center"><mark style="color:$warning;">½</mark></td><td align="center"></td><td align="center"><mark style="color:$success;">2</mark></td><td align="center"><mark style="color:$success;">2</mark></td><td align="center"></td><td align="center"><mark style="color:$success;">2</mark></td><td align="center"></td><td align="center"></td></tr></tbody></table>
+
+
+
+### **Drzewko ewolucyjne**
 
 <h4 align="center">Scorbunny     —>     Raboot     —>     Cinderace<br>   <img src="../../.gitbook/assets/psychic.png" alt="">             <sup>(Level 16)</sup>         <img src="../../.gitbook/assets/psychic.png" alt="">       <sup>(Level 35)</sup>          <img src="../../.gitbook/assets/psychic.png" alt=""><img src="../../.gitbook/assets/flying.png" alt=""></h4>
 
@@ -238,11 +218,11 @@ layout:
 
 {% columns %}
 {% column %}
-#### Uczone Poprzez Ewolucje
+#### Uczone poprzez ewolucje
 
 ![](../../.gitbook/assets/psychic.png) [Astral Drift](#user-content-fn-3)[^3]
 
-#### Uczone Poprzez Level-Up
+#### Uczone poprzez Level-Up
 
 <mark style="color:$info;">1</mark>  ![](../../.gitbook/assets/flying.png) Gust\
 <mark style="color:$info;">1</mark>  ![](../../.gitbook/assets/normal.png) Tackle\
@@ -261,9 +241,9 @@ layout:
 {% endcolumn %}
 
 {% column %}
-#### Uczone Poprzez TM
+#### Uczone poprzez TM
 
-Ekskluzywne Dla Regionalnej Formy:
+Ekskluzywne dla regionalnej formy:
 
 ![](../../.gitbook/assets/psychic.png) Calm Mind\
 ![](../../.gitbook/assets/psychic.png) Dram Eater\
@@ -274,14 +254,14 @@ Ekskluzywne Dla Regionalnej Formy:
 ![](../../.gitbook/assets/normal.png) Snore\
 ![](../../.gitbook/assets/flying.png) Tailwind
 
-#### Reszte Można Sprawdzić Na [Pokemon Database](https://pokemondb.net/pokedex/cinderace)
+#### Reszte można sprawdzić na [Pokemon Database](https://pokemondb.net/pokedex/cinderace)
 
-<sub><mark style="color:$info;">Wszystkie Ruchy Są Dodawane Ręcznie, Dlatego Reszta Nie Została Wypisana<mark style="color:$info;"></sub>
+<sub><mark style="color:$info;">Wszystkie ruchy są dodawane ręcznie, dlatego reszta nie została wypisana<mark style="color:$info;"></sub>
 {% endcolumn %}
 {% endcolumns %}
 
-[^1]: _Magic Guard_ protects the Pokémon from indirect damage
+[^1]: _Magic Guard_ chroni Pokémona przed obrażeniami pośrednimi.
 
-[^2]: _Comatose_ causes the Pokémon to behave as if it were asleep, though it doesn't officially have the Sleep status condition. It can still use its regular moves, but cannot be inflicted with any major status condition (sleep, poison, paralysis, burn, or freeze).
+[^2]: _Comatose_ sprawia, że ​​Pokémon zachowuje się tak, jakby spał, choć technicznie nie posiada statusu snu. Może on nadal używać swoich zwykłych ruchów, ale nie może zostać dotknięty żadnym z głównych stanów (sen, zatrucie, paraliż, oparzenie czy zamrożenie).
 
-[^3]: **| 80 BP | 10 PP | 90% Accuracy |** _Astral Drift_ deals damage and raises the user's Sp. Def by one stage.
+[^3]: **| 80 BP | 10 PP | 90% Accuracy |** _Astral Drift_ zadaje obrażenia i zwiększa Sp. Def użytkownika o jeden poziom.
