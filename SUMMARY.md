@@ -1,6 +1,24 @@
 # Table of contents
 
 * [Witaj na Wiki PokeGoGo!](README.md)
+* [Vote?](vote.md)
+
+## Info
+
+* [📃| Regulamin Serwera](info/or-regulamin-serwera.md)
+* [💻| Jak Wejść](info/or-jak-wejsc/README.md)
+  * [Launcher](info/or-jak-wejsc/launcher.md)
+  * [Modrinth](info/or-jak-wejsc/modrinth.md)
+* [👟| Pierwsze Kroki](info/or-pierwsze-kroki.md)
+
+## Co Oferujemy
+
+* [⚔️| Battle Tower](co-oferujemy/or-battle-tower.md)
+* [🏰| Dungeony](co-oferujemy/or-dungeony.md)
+* [📜| Poke Hunty](co-oferujemy/or-poke-hunty.md)
+* [🥚| Breeding](co-oferujemy/or-breeding.md)
+* [🚩| Turnieje](co-oferujemy/or-turnieje.md)
+* [♟️| Gildie](co-oferujemy/or-gildie.md)
 
 ## Nowe Pokemony
 
