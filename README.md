@@ -37,4 +37,4 @@ layout:
 
 <h3 align="center">Info</h3>
 
-<table data-view="cards"><thead><tr><th align="center"></th></tr></thead><tbody><tr><td align="center"><h4>Jak Wejść</h4><p>Znajdziesz tu poradnik krok po kroku jak zainstalować launcher i wejść na serwer</p></td></tr><tr><td align="center"><h4>Pierwsze Kroki</h4><p>Nasza pomoc w zaczęciu rozgrywki na naszym serwerze</p></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="center"></th></tr></thead><tbody><tr><td align="center"><h4>Regulamin</h4><p>No niestety takowy posiadamy ;c</p></td></tr><tr><td align="center"><h4>Jak Wejść</h4><p>Znajdziesz tu poradnik krok po kroku jak zainstalować launcher i wejść na serwer</p></td></tr><tr><td align="center"><h4>Pierwsze Kroki</h4><p>Nasza pomoc w zaczęciu rozgrywki na naszym serwerze</p></td></tr></tbody></table>

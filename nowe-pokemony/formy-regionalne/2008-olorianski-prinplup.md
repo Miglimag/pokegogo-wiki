@@ -53,16 +53,20 @@ layout:
 
 ***
 
-<mark style="color:$info;">Type</mark> ![](../../.gitbook/assets/fighting.png) Fighting
+<mark style="color:$info;">Typ</mark> ![](../../.gitbook/assets/fighting.png) Fighting
 
 ***
 
-<mark style="color:$info;">Abilities</mark> [Battle Armor](#user-content-fn-1)[^1]\
+<mark style="color:$info;">Abilities</mark> Clash[^1]\
 &#x20;             Stamina[^2] <mark style="color:$info;">(Hidden Ability)</mark>
 
 ***
 
 <mark style="color:$info;">Local №</mark> #0008
+
+***
+
+<mark style="color:$info;">Lokacja</mark> Glacial - Rare
 
 ***
 {% endcolumn %}
@@ -255,6 +259,6 @@ Ekskluzywne dla regionalnej formy:
 {% endcolumn %}
 {% endcolumns %}
 
-[^1]: _Battle Armor_ chroni Pokémona przed otrzymaniem trafienia krytycznego.
+[^1]: _Clash_ increases the power of Fighting-type moves by 50% (1.5×) when the ability-bearer's HP falls below a third of its maximum
 
 [^2]: _Stamina_ zwiększa Defence posiadacza o jeden poziom, gdy zostanie on zaatakowany dowolnym ruchem.

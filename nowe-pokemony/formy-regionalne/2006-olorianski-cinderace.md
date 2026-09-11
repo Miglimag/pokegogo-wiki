@@ -57,12 +57,16 @@ layout:
 
 ***
 
-<mark style="color:$info;">Abilities</mark> [Magic Guard](#user-content-fn-1)[^1]\
+<mark style="color:$info;">Abilities</mark> Pulse[^1]\
 &#x20;             Comatose[^2] <mark style="color:$info;">(Hidden Ability)</mark>
 
 ***
 
 <mark style="color:$info;">Local №</mark> #0006
+
+***
+
+<mark style="color:$info;">Lokacja</mark> Sky Island - Rare
 
 ***
 {% endcolumn %}
@@ -260,7 +264,7 @@ Ekskluzywne dla regionalnej formy:
 {% endcolumn %}
 {% endcolumns %}
 
-[^1]: _Magic Guard_ chroni Pokémona przed obrażeniami pośrednimi.
+[^1]: _Pulse_ increases the power of Psychic-type moves by 50% (1.5×) when the ability-bearer's HP falls below a third of its maximum
 
 [^2]: _Comatose_ sprawia, że ​​Pokémon zachowuje się tak, jakby spał, choć technicznie nie posiada statusu snu. Może on nadal używać swoich zwykłych ruchów, ale nie może zostać dotknięty żadnym z głównych stanów (sen, zatrucie, paraliż, oparzenie czy zamrożenie).
 

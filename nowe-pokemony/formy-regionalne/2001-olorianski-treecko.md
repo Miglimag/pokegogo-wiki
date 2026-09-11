@@ -53,16 +53,20 @@ layout:
 
 ***
 
-<mark style="color:$info;">Type</mark> ![](../../.gitbook/assets/dark.png) Dark
+<mark style="color:$info;">Typ</mark> ![](../../.gitbook/assets/dark.png) Dark
 
 ***
 
-<mark style="color:$info;">Abilities</mark> Insomnia[^1]\
+<mark style="color:$info;">Abilities</mark> Shade[^1]\
 &#x20;             Infiltrator[^2] <mark style="color:$info;">(Hidden Ability)</mark>
 
 ***
 
 <mark style="color:$info;">Local №</mark> #0001
+
+***
+
+<mark style="color:$info;">Lokacja</mark> Desert (W Nocy) - Rare
 
 ***
 {% endcolumn %}
@@ -251,6 +255,6 @@ Ekskluzywne dla regionalnej formy:
 {% endcolumn %}
 {% endcolumns %}
 
-[^1]: _Insomnia_ uniemożliwia posiadaczowi zapadnięcie w sen – zarówno w wyniku działania ruchów innych Pokémonów (takich jak Sing), jak i w przypadku prób samodzielnego wywołania snu (np. poprzez ruch Rest).
+[^1]: _Shade_ increases the power of Dark-type moves by 50% (1.5×) when the ability-bearer's HP falls below a third of its maximum
 
 [^2]: _Infiltrator_ ignoruje działanie ruchów Reflect, Light Screen oraz Safeguard. Innymi słowy, jeśli przeciwnik użył Safeguard, ruch Toxic nadal spowoduje u niego silne zatrucie (badly poisoned).
