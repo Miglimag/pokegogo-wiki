@@ -17,6 +17,8 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # #2002 - Oloriański Grovyle
@@ -53,7 +55,7 @@ layout:
 
 ***
 
-<mark style="color:$info;">Typ</mark> ![](../../.gitbook/assets/dark.png) Dark / ![](../../.gitbook/assets/electric.png) Electric
+<mark style="color:$info;">Type</mark> ![](../../.gitbook/assets/dark.png) Dark / ![](../../.gitbook/assets/electric.png) Electric
 
 ***
 
@@ -66,7 +68,7 @@ layout:
 
 ***
 
-<mark style="color:$info;">Lokacja</mark> Desert (W Nocy) - Rare
+<mark style="color:$info;">Spawn</mark> Desert (W Nocy) - Rare
 
 ***
 {% endcolumn %}

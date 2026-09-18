@@ -17,6 +17,8 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # #2009 - Oloriański Empoleon
@@ -53,7 +55,7 @@ layout:
 
 ***
 
-<mark style="color:$info;">Typ</mark> ![](../../.gitbook/assets/fighting.png) Fighting / ![](../../.gitbook/assets/ice.png) Ice
+<mark style="color:$info;">Type</mark> ![](../../.gitbook/assets/fighting.png) Fighting / ![](../../.gitbook/assets/ice.png) Ice
 
 ***
 
@@ -66,7 +68,7 @@ layout:
 
 ***
 
-<mark style="color:$info;">Lokacja</mark> Glacial - Rare
+<mark style="color:$info;">Spawn</mark> Glacial - Rare
 
 ***
 {% endcolumn %}
@@ -220,7 +222,7 @@ layout:
 
 {% columns %}
 {% column %}
-#### Uczone poprzez ewolucje
+#### Uczone poprzez Ewolucje
 
 ![](../../.gitbook/assets/fighting.png) [Anchor Slam](#user-content-fn-3)[^3]
 

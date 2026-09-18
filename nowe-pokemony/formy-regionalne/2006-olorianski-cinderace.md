@@ -17,6 +17,8 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # #2006 - Oloriański Cinderace
@@ -66,7 +68,7 @@ layout:
 
 ***
 
-<mark style="color:$info;">Lokacja</mark> Sky Island - Rare
+<mark style="color:$info;">Spawn</mark> Sky Island - Rare
 
 ***
 {% endcolumn %}
@@ -222,7 +224,7 @@ layout:
 
 {% columns %}
 {% column %}
-#### Uczone poprzez ewolucje
+#### Uczone poprzez Ewolucje
 
 ![](../../.gitbook/assets/psychic.png) [Astral Drift](#user-content-fn-3)[^3]
 

@@ -30,3 +30,6 @@
   * [#2007 - Oloriański Piplup](nowe-pokemony/formy-regionalne/2007-olorianski-piplup.md)
   * [#2008 - Oloriański Prinplup](nowe-pokemony/formy-regionalne/2008-olorianski-prinplup.md)
   * [#2009 - Oloriański Empoleon](nowe-pokemony/formy-regionalne/2009-olorianski-empoleon.md)
+  * [#2017 - Geoscue](nowe-pokemony/formy-regionalne/2017-geoscue.md)
+  * [#2018 - Struthioroc](nowe-pokemony/formy-regionalne/2018-struthioroc.md)
+  * [#2028 - Bumbleon](nowe-pokemony/formy-regionalne/2028-bumbleon.md)

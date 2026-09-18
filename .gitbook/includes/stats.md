@@ -11,11 +11,7 @@ title: Stats
 1
 {% endcolumn %}
 
-{% column width="50%" %}
+{% column width="75%" %}
 ▮
-{% endcolumn %}
-
-{% column width="24.999999999999996%" %}
-139     273
 {% endcolumn %}
 {% endcolumns %}

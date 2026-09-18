@@ -17,6 +17,8 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # #2007 - Oloriański Piplup
@@ -53,7 +55,7 @@ layout:
 
 ***
 
-<mark style="color:$info;">Typ</mark> ![](../../.gitbook/assets/fighting.png) Fighting
+<mark style="color:$info;">Type</mark> ![](../../.gitbook/assets/fighting.png) Fighting
 
 ***
 
@@ -66,7 +68,7 @@ layout:
 
 ***
 
-<mark style="color:$info;">Lokacja</mark> Glacial - Rare
+<mark style="color:$info;">Spawn</mark> Glacial - Rare
 
 ***
 {% endcolumn %}
