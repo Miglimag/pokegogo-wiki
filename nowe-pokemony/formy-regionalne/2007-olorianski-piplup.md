@@ -258,6 +258,6 @@ Ekskluzywne dla regionalnej formy:
 {% endcolumn %}
 {% endcolumns %}
 
-[^1]: _Clash_ increases the power of Fighting-type moves by 50% (1.5×) when the ability-bearer's HP falls below a third of its maximum
+[^1]: _Clash_ zwiększa moc Fighting-type ruchów o 50% (1.5×) kiedy HP posiadacza spadnie poniżej jednej trzeciej jego maksimum
 
 [^2]: _Stamina_ zwiększa Defence posiadacza o jeden poziom, gdy zostanie on zaatakowany dowolnym ruchem.

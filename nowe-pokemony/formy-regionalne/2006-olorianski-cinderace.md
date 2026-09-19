@@ -266,7 +266,7 @@ Ekskluzywne dla regionalnej formy:
 {% endcolumn %}
 {% endcolumns %}
 
-[^1]: _Pulse_ increases the power of Psychic-type moves by 50% (1.5×) when the ability-bearer's HP falls below a third of its maximum
+[^1]: _Pulse_ zwiększa moc Psychic-type ruchów o 50% (1.5×) kiedy HP posiadacza spadnie poniżej jednej trzeciej jego maksimum
 
 [^2]: _Comatose_ sprawia, że ​​Pokémon zachowuje się tak, jakby spał, choć technicznie nie posiada statusu snu. Może on nadal używać swoich zwykłych ruchów, ale nie może zostać dotknięty żadnym z głównych stanów (sen, zatrucie, paraliż, oparzenie czy zamrożenie).
 

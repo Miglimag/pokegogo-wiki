@@ -266,6 +266,6 @@ Ekskluzywne dla regionalnej formy:
 {% endcolumn %}
 {% endcolumns %}
 
-[^1]: _Shade_ increases the power of Dark-type moves by 50% (1.5×) when the ability-bearer's HP falls below a third of its maximum
+[^1]: _Shade_ zwiększa moc Dark-type ruchów o 50% (1.5×) kiedy HP posiadacza spadnie poniżej jednej trzeciej jego maksimum
 
 [^2]: _Infiltrator_ ignoruje działanie ruchów Reflect, Light Screen oraz Safeguard. Innymi słowy, jeśli przeciwnik użył Safeguard, ruch Toxic nadal spowoduje u niego silne zatrucie (badly poisoned).

@@ -17,6 +17,8 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # Witaj na Wiki PokeGoGo!
@@ -37,4 +39,4 @@ layout:
 
 <h3 align="center">Info</h3>
 
-<table data-view="cards"><thead><tr><th align="center"></th></tr></thead><tbody><tr><td align="center"><h4>Regulamin</h4><p>No niestety takowy posiadamy ;c</p></td></tr><tr><td align="center"><h4>Jak Wejść</h4><p>Znajdziesz tu poradnik krok po kroku jak zainstalować launcher i wejść na serwer</p></td></tr><tr><td align="center"><h4>Pierwsze Kroki</h4><p>Nasza pomoc w zaczęciu rozgrywki na naszym serwerze</p></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><h4>Regulamin</h4><p>No niestety takowy posiadamy ;c</p></td><td><a href="info/or-regulamin-serwera.md">or-regulamin-serwera.md</a></td></tr><tr><td align="center"><h4>Jak Wejść</h4><p>Znajdziesz tu poradnik krok po kroku jak zainstalować launcher i wejść na serwer</p></td><td></td></tr><tr><td align="center"><h4>Pierwsze Kroki</h4><p>Nasza pomoc w zaczęciu rozgrywki na naszym serwerze</p></td><td><a href="info/or-pierwsze-kroki.md">or-pierwsze-kroki.md</a></td></tr></tbody></table>

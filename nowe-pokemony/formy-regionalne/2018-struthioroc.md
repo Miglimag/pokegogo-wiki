@@ -59,7 +59,7 @@ layout:
 
 ***
 
-<mark style="color:$info;">Abilities</mark> Rock Face
+<mark style="color:$info;">Abilities</mark> [Rock Face](#user-content-fn-1)[^1]
 
 ***
 
@@ -406,3 +406,5 @@ layout:
 ![](../../.gitbook/assets/psychic.png) Zen Headbutt
 {% endcolumn %}
 {% endcolumns %}
+
+[^1]: _Rock Face_ pozwala Pokémonowi na przyjęcie specjalnego ataku bez otrzymania obrażeń. Po ataku, Pokémon zmienia swoją formę na "No Face", ale może być one odzyskana w sandstorm.

@@ -59,7 +59,7 @@ layout:
 
 ***
 
-<mark style="color:$info;">Abilities</mark> Rock Face
+<mark style="color:$info;">Abilities</mark> [Rock Face](#user-content-fn-1)[^1]
 
 ***
 
@@ -305,7 +305,7 @@ layout:
 
 ### **Drzewko ewolucyjne**
 
-<h4 align="center">Geoscue     —>     Struthioroc<br><img src="../../.gitbook/assets/rock.png" alt="">           <sup>(Level 38)</sup>           <img src="../../.gitbook/assets/rock.png" alt=""><img src="../../.gitbook/assets/normal.png" alt=""></h4>
+<h4 align="center"><a href="2017-geoscue.md">Geoscue</a>     —>     <a href="2018-struthioroc.md">Struthioroc</a><br><img src="../../.gitbook/assets/rock.png" alt="">           <sup>(Level 38)</sup>           <img src="../../.gitbook/assets/rock.png" alt=""><img src="../../.gitbook/assets/normal.png" alt=""></h4>
 
 
 
@@ -402,3 +402,5 @@ layout:
 ![](../../.gitbook/assets/psychic.png) Zen Headbutt
 {% endcolumn %}
 {% endcolumns %}
+
+[^1]: _Rock Face_ pozwala Pokémonowi na przyjęcie specjalnego ataku bez otrzymania obrażeń. Po ataku, Pokémon zmienia swoją formę na "No Face", ale może być one odzyskana w sandstorm.

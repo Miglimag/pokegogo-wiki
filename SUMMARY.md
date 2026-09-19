@@ -33,3 +33,4 @@
   * [#2017 - Geoscue](nowe-pokemony/formy-regionalne/2017-geoscue.md)
   * [#2018 - Struthioroc](nowe-pokemony/formy-regionalne/2018-struthioroc.md)
   * [#2028 - Bumbleon](nowe-pokemony/formy-regionalne/2028-bumbleon.md)
+  * [#2030 - Brawlcanic](nowe-pokemony/formy-regionalne/2030-brawlcanic.md)
