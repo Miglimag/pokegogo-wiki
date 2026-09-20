@@ -67,7 +67,7 @@ layout:
 
 ***
 
-<mark style="color:$info;">Spawn</mark> Badlands (ig) - Rare
+<mark style="color:$info;">Spawn</mark> Desert\* - Rare
 
 ***
 {% endcolumn %}

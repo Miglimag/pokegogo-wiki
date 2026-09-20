@@ -68,7 +68,7 @@ layout:
 
 ***
 
-<mark style="color:$info;">Spawn</mark> Floral (ig) - Rare
+<mark style="color:$info;">Spawn</mark> Floral\* - Rare
 
 ***
 {% endcolumn %}
@@ -196,7 +196,7 @@ layout:
 
 ### **Drzewko ewolucyjne**
 
-<h4 align="center"><a href="https://pokemondb.net/pokedex/eevee">Eevee</a>     —>     <a href="2028-bumbleon.md">Bumleon</a><br><img src="../../.gitbook/assets/normal.png" alt="">     <sup>(use Silver Powder)</sup>     <img src="../../.gitbook/assets/bug.png" alt=""></h4>
+<h4 align="center">  <a href="https://pokemondb.net/pokedex/eevee">Eevee</a>        —>        <a href="2028-bumbleon.md">Bumleon</a><br><img src="../../.gitbook/assets/normal.png" alt="">      <sup>(use Silver Powder)</sup>     <img src="../../.gitbook/assets/bug.png" alt=""></h4>
 
 
 

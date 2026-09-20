@@ -274,4 +274,4 @@ Ekskluzywne dla regionalnej formy:
 
 [^2]: _Infiltrator_ ignoruje działanie ruchów Reflect, Light Screen oraz Safeguard. Innymi słowy, jeśli przeciwnik użył Safeguard, ruch Toxic nadal spowoduje u niego silne zatrucie (badly poisoned).
 
-[^3]: **| 60 BP | 10 PP | 100% Accuracy |** _Dread Current_ zadaje obrażenia i ma 30% szansy na sparaliżowanie celu. Jeśli cel jest już sparaliżowany, siła ataku ulega podwojeniu.
+[^3]: **| Physical | 60 BP | 10 PP | 100% Accuracy |** _Dread Current_ zadaje obrażenia i ma 30% szansy na sparaliżowanie celu. Jeśli cel jest już sparaliżowany, siła ataku ulega podwojeniu.

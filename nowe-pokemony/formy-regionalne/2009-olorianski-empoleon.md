@@ -271,6 +271,6 @@ Ekskluzywne dla regionalnej formy:
 
 [^2]: _Stamina_ zwiększa Defence posiadacza o jeden poziom, gdy zostanie on zaatakowany dowolnym ruchem.
 
-[^3]: **| 70 BP | 10 PP | 100% Accuracy |** Użytkownik uderza cel ciężką kotwicą, unieruchamiając go w miejscu. Cel traci możliwość ucieczki.
+[^3]: **| Physical | 80 BP | 10 PP | 100% Accuracy |** Użytkownik uderza cel ciężką kotwicą, unieruchamiając go w miejscu. Cel traci możliwość ucieczki.
 
 [^4]: **| Status | 10 PP |** **+4 Priority |** _Glacial Bastion_ zapobiega trafieniu użytkownika przez jakiekolwiek ataki wymierzone w niego w danej turze. Jeśli w tej turze użytkownik ruchu Glacial Bastion zostanie zaatakowany techniką wymagającą kontaktu fizycznego, atakujący otrzymuje obrażenia równe ⅛ maks HP.

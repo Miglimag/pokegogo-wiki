@@ -21,7 +21,7 @@ layout:
     visible: true
 ---
 
-# #2030 - Brawlcanic
+# #2031 - Seraphire
 
 {% columns %}
 {% column width="50%" %}
@@ -47,15 +47,15 @@ layout:
 {% column width="50.000000000000014%" %}
 ***
 
-<mark style="color:$info;">Gatunek</mark> Pokémon Ognisty Wojownik
+<mark style="color:$info;">Gatunek</mark> Pokémon Ognisty Anioł
 
 ***
 
-<mark style="color:$info;">Waga</mark> 73.0 kg (160.9 lbs)
+<mark style="color:$info;">Waga</mark> 56.0 kg (160.9 lbs)
 
 ***
 
-<mark style="color:$info;">Type</mark> ![](../../.gitbook/assets/fire.png) Fire / ![](../../.gitbook/assets/ground.png) Ground
+<mark style="color:$info;">Type</mark> ![](../../.gitbook/assets/fire.png) Fire / ![](../../.gitbook/assets/fairy.png) Fairy
 
 ***
 
@@ -64,11 +64,11 @@ layout:
 
 ***
 
-<mark style="color:$info;">Local №</mark> #0030
+<mark style="color:$info;">Local №</mark> #0031
 
 ***
 
-<mark style="color:$info;">Spawn</mark> Badlands\* - Rare
+<mark style="color:$info;">Spawn</mark> Magical\* - Rare
 
 ***
 {% endcolumn %}
@@ -100,38 +100,6 @@ layout:
 {% endcolumn %}
 
 {% column width="8.333333333333334%" %}
-125
-{% endcolumn %}
-
-{% column width="75%" %}
-▮▮▮▮▮▮▮▮▮▮▮▮▮
-{% endcolumn %}
-{% endcolumns %}
-
-***
-
-{% columns %}
-{% column width="16.666666666666664%" %}
-<p align="right"><mark style="color:$info;">Defence</mark></p>
-{% endcolumn %}
-
-{% column width="8.333333333333334%" %}
-100
-{% endcolumn %}
-
-{% column width="75%" %}
-▮▮▮▮▮▮▮▮▮▮
-{% endcolumn %}
-{% endcolumns %}
-
-***
-
-{% columns %}
-{% column width="16.666666666666664%" %}
-<p align="right"><mark style="color:$info;">Sp. Atk</mark></p>
-{% endcolumn %}
-
-{% column width="8.333333333333334%" %}
 60
 {% endcolumn %}
 
@@ -144,7 +112,7 @@ layout:
 
 {% columns %}
 {% column width="16.666666666666664%" %}
-<p align="right"><mark style="color:$info;">Sp. Def</mark></p>
+<p align="right"><mark style="color:$info;">Defence</mark></p>
 {% endcolumn %}
 
 {% column width="8.333333333333334%" %}
@@ -153,6 +121,38 @@ layout:
 
 {% column width="75%" %}
 ▮▮▮▮▮▮▮▮
+{% endcolumn %}
+{% endcolumns %}
+
+***
+
+{% columns %}
+{% column width="16.666666666666664%" %}
+<p align="right"><mark style="color:$info;">Sp. Atk</mark></p>
+{% endcolumn %}
+
+{% column width="8.333333333333334%" %}
+125
+{% endcolumn %}
+
+{% column width="75%" %}
+▮▮▮▮▮▮▮▮▮▮▮▮▮
+{% endcolumn %}
+{% endcolumns %}
+
+***
+
+{% columns %}
+{% column width="16.666666666666664%" %}
+<p align="right"><mark style="color:$info;">Sp. Def</mark></p>
+{% endcolumn %}
+
+{% column width="8.333333333333334%" %}
+100
+{% endcolumn %}
+
+{% column width="75%" %}
+▮▮▮▮▮▮▮▮▮▮
 {% endcolumn %}
 {% endcolumns %}
 
@@ -190,13 +190,13 @@ layout:
 
 ### **Odporności na inne typy**
 
-<sup><mark style="color:$info;">Efektywność każdego typu na Brawlcanic'a<mark style="color:$info;"></sup>
+<sup><mark style="color:$info;">Efektywność każdego typu na Seraphire'a<mark style="color:$info;"></sup>
 
-<table data-header-hidden><thead><tr><th width="80" align="center"></th><th width="80" align="center"></th><th width="80" align="center"></th><th width="80" align="center"></th><th width="80" align="center"></th><th width="80" align="center"></th><th width="80" align="center"></th><th width="80" align="center"></th><th width="80" align="center"></th></tr></thead><tbody><tr><td align="center"><img src="../../.gitbook/assets/normal.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/fire.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/water.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/electric.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/grass.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/ice.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/fighting.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/poison.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/ground.png" alt=""></td></tr><tr><td align="center"></td><td align="center"><mark style="color:$warning;">½</mark></td><td align="center"><mark style="color:green;">4</mark></td><td align="center"><mark style="color:$info;">0</mark></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"><mark style="color:$warning;">½</mark></td><td align="center"><mark style="color:$success;">2</mark></td></tr><tr><td align="center"><img src="../../.gitbook/assets/flying.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/psychic.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/bug.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/rock.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/ghost.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/dragon.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/dark.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/steel.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/fairy.png" alt=""></td></tr><tr><td align="center"></td><td align="center"></td><td align="center"><mark style="color:$warning;">½</mark></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"><mark style="color:$warning;">½</mark></td><td align="center"><mark style="color:$warning;">½</mark></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="80" align="center"></th><th width="80" align="center"></th><th width="80" align="center"></th><th width="80" align="center"></th><th width="80" align="center"></th><th width="80" align="center"></th><th width="80" align="center"></th><th width="80" align="center"></th><th width="80" align="center"></th></tr></thead><tbody><tr><td align="center"><img src="../../.gitbook/assets/normal.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/fire.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/water.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/electric.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/grass.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/ice.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/fighting.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/poison.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/ground.png" alt=""></td></tr><tr><td align="center"></td><td align="center"><mark style="color:$warning;">½</mark></td><td align="center"><mark style="color:$success;">2</mark></td><td align="center"></td><td align="center"><mark style="color:$warning;">½</mark></td><td align="center"><mark style="color:$warning;">½</mark></td><td align="center"><mark style="color:$warning;">½</mark></td><td align="center"><mark style="color:$success;">2</mark></td><td align="center"><mark style="color:$success;">2</mark></td></tr><tr><td align="center"><img src="../../.gitbook/assets/flying.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/psychic.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/bug.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/rock.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/ghost.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/dragon.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/dark.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/steel.png" alt=""></td><td align="center"><img src="../../.gitbook/assets/fairy.png" alt=""></td></tr><tr><td align="center"></td><td align="center"></td><td align="center"><mark style="color:$danger;">¼</mark></td><td align="center"><mark style="color:$success;">2</mark></td><td align="center"></td><td align="center"><mark style="color:$info;">0</mark></td><td align="center"><mark style="color:$warning;">½</mark></td><td align="center"></td><td align="center"><mark style="color:$warning;">½</mark></td></tr></tbody></table>
 
 ### **Drzewko ewolucyjne**
 
-<h4 align="center"><a href="https://pokemondb.net/pokedex/charcadet">Charcadet</a>        —>        <a href="2030-brawlcanic.md">Brawlcanic</a><br><img src="../../.gitbook/assets/fire.png" alt="">        <sup>(use Volcanic Armor)</sup>     <img src="../../.gitbook/assets/fire.png" alt=""><img src="../../.gitbook/assets/ground.png" alt=""></h4>
+<h4 align="center"><a href="https://pokemondb.net/pokedex/charcadet">Charcadet</a>        —>        <a href="2031-seraphire.md">Seraphire</a><br> <img src="../../.gitbook/assets/fire.png" alt="" data-size="original">       <sup>(use Angelic Armor)</sup>       <img src="../../.gitbook/assets/fire.png" alt=""><img src="../../.gitbook/assets/fairy.png" alt=""></h4>
 
 
 
@@ -204,7 +204,7 @@ layout:
 {% column %}
 ### **Trening**
 
-<mark style="color:$info;">EV Yield</mark> 2 Attack
+<mark style="color:$info;">EV Yield</mark> 2 Sp. Atk
 
 <mark style="color:$info;">Catch Rate</mark> 25 <mark style="color:$info;">(3.3% with Pokeball, Full HP)</mark>
 {% endcolumn %}
@@ -218,13 +218,13 @@ layout:
 {% endcolumn %}
 {% endcolumns %}
 
-<h3 align="center"><strong>Ruchy Brawlcanic'a</strong></h3>
+<h3 align="center"><strong>Ruchy Seraphire'a</strong></h3>
 
 {% columns %}
-{% column %}
+{% column width="50%" %}
 #### Uczone poprzez Ewolucje
 
-![](../../.gitbook/assets/ground.png) Bulldoze
+![](../../.gitbook/assets/fairy.png) Dazzling Gleam
 
 #### Uczone poprzez Level-Up
 
@@ -236,11 +236,11 @@ layout:
 <mark style="color:$info;">24</mark>  ![](../../.gitbook/assets/fire.png) Flame Charge\
 <mark style="color:$info;">28</mark>  ![](../../.gitbook/assets/fire.png) Incinerate\
 <mark style="color:$info;">32</mark>  ![](../../.gitbook/assets/fire.png) Lava Plume\
-<mark style="color:$info;">37</mark>  ![](../../.gitbook/assets/fighting.png) Bulk Up\
+<mark style="color:$info;">37</mark>  ![](../../.gitbook/assets/bug.png) Quiver Dance\
 <mark style="color:$info;">42</mark>  ![](../../.gitbook/assets/psychic.png) Ally Switch\
-<mark style="color:$info;">48</mark>  ![](../../.gitbook/assets/fire.png) [Erupting Knuckle](#user-content-fn-3)[^3]\
-<mark style="color:$info;">56</mark>  ![](../../.gitbook/assets/fighting.png) Brick Break\
-<mark style="color:$info;">62</mark>  ![](../../.gitbook/assets/fire.png) Flare Blitz
+<mark style="color:$info;">48</mark>  ![](../../.gitbook/assets/fairy.png) [Radiant Lance](#user-content-fn-3)[^3]\
+<mark style="color:$info;">56</mark>  ![](../../.gitbook/assets/fire.png) Flamethrower\
+<mark style="color:$info;">62</mark>  ![](../../.gitbook/assets/flying.png) Hurricane
 
 #### Uczone poprzez Breeding
 
@@ -249,18 +249,17 @@ layout:
 ![](../../.gitbook/assets/ghost.png) Spite
 {% endcolumn %}
 
-{% column %}
+{% column width="49.999999999999986%" %}
 #### Uczone poprzez TM
 
-![](../../.gitbook/assets/flying.png) Bounce\
-![](../../.gitbook/assets/fighting.png) Bulk Up\
-![](../../.gitbook/assets/ground.png) Bulldoze\
-![](../../.gitbook/assets/fighting.png) Close Combat\
+![](../../.gitbook/assets/flying.png) Air Slash\
+![](../../.gitbook/assets/fairy.png) Alluring Voice\
+![](../../.gitbook/assets/fighting.png) Aura Sphere\
+![](../../.gitbook/assets/psychic.png) Calm Mind\
 ![](../../.gitbook/assets/ghost.png) Confuse Ray\
-![](../../.gitbook/assets/dragon.png) Dragon Claw\
-![](../../.gitbook/assets/fighting.png) Drain Punch\
-![](../../.gitbook/assets/ground.png) Earthquake\
+![](../../.gitbook/assets/fairy.png) Dazzling Gleam\
 ![](../../.gitbook/assets/normal.png) Endure\
+![](../../.gitbook/assets/grass.png) Energy Ball\
 ![](../../.gitbook/assets/normal.png) Facade\
 ![](../../.gitbook/assets/fire.png) Fire Blast\
 ![](../../.gitbook/assets/fire.png) Fire Punch\
@@ -268,37 +267,37 @@ layout:
 ![](../../.gitbook/assets/fire.png) Fire Charge\
 ![](../../.gitbook/assets/fire.png) Flamethrower\
 ![](../../.gitbook/assets/fire.png) Flare Blitz\
+![](../../.gitbook/assets/steel.png) Flash Cannon\
 ![](../../.gitbook/assets/dark.png) Fling\
-![](../../.gitbook/assets/normal.png) Frustration\
+![](../../.gitbook/assets/fighting.png) Focus Blast\
 ![](../../.gitbook/assets/fire.png) Heat Wave\
 ![](../../.gitbook/assets/normal.png) Helping Hand\
-![](../../.gitbook/assets/ice.png) Ice Punch\
 ![](../../.gitbook/assets/steel.png) Iron Defense\
-![](../../.gitbook/assets/steel.png) Iron Head\
-![](../../.gitbook/assets/dark.png) Knock Off\
 ![](../../.gitbook/assets/psychic.png) Light Screen\
-![](../../.gitbook/assets/fighting.png) Low Sweep\
-![](../../.gitbook/assets/fighting.png) Mach Punch\
+![](../../.gitbook/assets/fairy.png) Misty Terrain\
+![](../../.gitbook/assets/fairy.png) Moonblast\
 ![](../../.gitbook/assets/ghost.png) Night Shade\
 ![](../../.gitbook/assets/fire.png) Overheat\
-![](../../.gitbook/assets/poison.png) Poison Jab\
 ![](../../.gitbook/assets/normal.png) Protect\
 ![](../../.gitbook/assets/normal.png) Psych Up\
+![](../../.gitbook/assets/psychic.png) Psychic\
+![](../../.gitbook/assets/psychic.png) Psychock\
+![](../../.gitbook/assets/fighting.png) Quick Guard\
 ![](../../.gitbook/assets/psychic.png) Reflect\
 ![](../../.gitbook/assets/psychic.png) Rest\
-![](../../.gitbook/assets/fighting.png) Reversal\
-![](../../.gitbook/assets/ghost.png) Shadow Claw\
+![](../../.gitbook/assets/flying.png) Roost\
+![](../../.gitbook/assets/normal.png) Safeguard\
 ![](../../.gitbook/assets/normal.png) Sleep Talk\
+![](../../.gitbook/assets/grass.png) Solar Beam\
 ![](../../.gitbook/assets/ghost.png) Spite\
 ![](../../.gitbook/assets/psychic.png) Stored Power\
 ![](../../.gitbook/assets/normal.png) Substitute\
 ![](../../.gitbook/assets/fire.png) Sunny Day\
+![](../../.gitbook/assets/normal.png) Swift\
 ![](../../.gitbook/assets/normal.png) Take Down\
 ![](../../.gitbook/assets/dark.png) Taunt\
 ![](../../.gitbook/assets/normal.png) Tera Blast\
-![](../../.gitbook/assets/dark.png) Throat Chop\
-![](../../.gitbook/assets/electric.png) Thunder Punch\
-![](../../.gitbook/assets/bug.png) U-Turn\
+![](../../.gitbook/assets/rock.png) Wide Guard\
 ![](../../.gitbook/assets/fire.png) Will-O-Wisp
 {% endcolumn %}
 {% endcolumns %}
@@ -307,4 +306,4 @@ layout:
 
 [^2]: Kiedy Pokémon z _Weak Armor_ jest uderzony przez fizyczny ruch, jego Defense spada o jeden stopień, ale jego Speed zwiększa się o jeden stopień.
 
-[^3]: **| Physical | 90 BP | 10 PP | 100% Accuracy |** Ma zwiększony współczynnik trafień krytycznych oraz szanse na flinch'a
+[^3]: **| Special | 90 BP | 10 PP | 100% Accuracy |** Ignoruje podwyższone statystyki Defense oraz Sp. Def

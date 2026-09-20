@@ -270,4 +270,4 @@ Ekskluzywne dla regionalnej formy:
 
 [^2]: _Comatose_ sprawia, że ​​Pokémon zachowuje się tak, jakby spał, choć technicznie nie posiada statusu snu. Może on nadal używać swoich zwykłych ruchów, ale nie może zostać dotknięty żadnym z głównych stanów (sen, zatrucie, paraliż, oparzenie czy zamrożenie).
 
-[^3]: **| 80 BP | 10 PP | 90% Accuracy |** _Astral Drift_ zadaje obrażenia i zwiększa Sp. Def użytkownika o jeden poziom.
+[^3]: **| Special | 80 BP | 10 PP | 90% Accuracy |** _Astral Drift_ zadaje obrażenia i zwiększa Sp. Def użytkownika o jeden poziom.

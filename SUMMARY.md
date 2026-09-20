@@ -19,6 +19,7 @@
 * [🥚| Breeding](co-oferujemy/or-breeding.md)
 * [🚩| Turnieje](co-oferujemy/or-turnieje.md)
 * [♟️| Gildie](co-oferujemy/or-gildie.md)
+* [🎱| Bingo](co-oferujemy/or-bingo.md)
 
 ## Nowe Pokemony
 
@@ -33,4 +34,7 @@
   * [#2017 - Geoscue](nowe-pokemony/formy-regionalne/2017-geoscue.md)
   * [#2018 - Struthioroc](nowe-pokemony/formy-regionalne/2018-struthioroc.md)
   * [#2028 - Bumbleon](nowe-pokemony/formy-regionalne/2028-bumbleon.md)
+  * [#2019 - Moltmor](nowe-pokemony/formy-regionalne/2019-moltmor.md)
   * [#2030 - Brawlcanic](nowe-pokemony/formy-regionalne/2030-brawlcanic.md)
+  * [#2031 - Seraphire](nowe-pokemony/formy-regionalne/2031-seraphire.md)
+  * [#??? - Nown](nowe-pokemony/formy-regionalne/nown.md)
