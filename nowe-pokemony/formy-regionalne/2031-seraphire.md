@@ -51,7 +51,7 @@ layout:
 
 ***
 
-<mark style="color:$info;">Waga</mark> 56.0 kg (160.9 lbs)
+<mark style="color:$info;">Waga</mark> 56.0 kg (123.5 lbs)
 
 ***
 
