@@ -61,7 +61,7 @@ layout:
 
 <mark style="color:$info;">Abilities</mark> Static[^1]\
 &#x20;             [Sand Rush](#user-content-fn-2)[^2]\
-&#x20;             Electromorphosis[^3] <mark style="color:$info;">(Hidden Ability)</mark>
+&#x20;             Skill Link <mark style="color:$info;">(Hidden Ability)</mark>
 
 ***
 
@@ -85,7 +85,7 @@ layout:
 {% endcolumn %}
 
 {% column width="8.333333333333334%" %}
-85
+90
 {% endcolumn %}
 
 {% column width="75%" %}
@@ -101,11 +101,11 @@ layout:
 {% endcolumn %}
 
 {% column width="8.333333333333334%" %}
-115
+110
 {% endcolumn %}
 
 {% column width="75%" %}
-▮▮▮▮▮▮▮▮▮▮▮▮
+▮▮▮▮▮▮▮▮▮▮▮
 {% endcolumn %}
 {% endcolumns %}
 
@@ -133,11 +133,11 @@ layout:
 {% endcolumn %}
 
 {% column width="8.333333333333334%" %}
-55
+85
 {% endcolumn %}
 
 {% column width="75%" %}
-▮▮▮▮▮▮
+▮▮▮▮▮▮▮▮▮
 {% endcolumn %}
 {% endcolumns %}
 
@@ -165,11 +165,11 @@ layout:
 {% endcolumn %}
 
 {% column width="8.333333333333334%" %}
-75
+45
 {% endcolumn %}
 
 {% column width="75%" %}
-▮▮▮▮▮▮▮▮
+▮▮▮▮▮
 {% endcolumn %}
 {% endcolumns %}
 
@@ -225,7 +225,7 @@ layout:
 {% column width="50%" %}
 #### Uczone poprzez Ewolucje
 
-![](../../.gitbook/assets/ground.png) [Quake Force](#user-content-fn-4)[^4]
+![](../../.gitbook/assets/ground.png) [Quake Force](#user-content-fn-3)[^3]
 
 #### Uczone poprzez Level-Up
 
@@ -237,7 +237,7 @@ layout:
 <mark style="color:$info;">16</mark>  ![](../../.gitbook/assets/rock.png) Rollout\
 <mark style="color:$info;">20</mark>  ![](../../.gitbook/assets/ground.png) Spikes\
 <mark style="color:$info;">24</mark>  ![](../../.gitbook/assets/electric.png) Spark\
-<mark style="color:$info;">28</mark>  ![](../../.gitbook/assets/electric.png) [Quill Shock](#user-content-fn-5)[^5]\
+<mark style="color:$info;">28</mark>  ![](../../.gitbook/assets/electric.png) [Quill Shock](#user-content-fn-4)[^4]\
 <mark style="color:$info;">32</mark>  ![](../../.gitbook/assets/ground.png) Dig\
 <mark style="color:$info;">36</mark>  ![](../../.gitbook/assets/rock.png) Stealth Rock\
 <mark style="color:$info;">40</mark>  ![](../../.gitbook/assets/electric.png) Discharge\
@@ -304,8 +304,6 @@ layout:
 
 [^2]: _Sand Rush_ podwaja Speed użytkownika podczas sandsorm'a
 
-[^3]: Jeśli Pokemon z _Electromorphosis_ jest uderzony przez atak to jego nastepny Electric-type ruch ma podwojoną moc
+[^3]: **| Physical | 80 BP | 10 PP | 100% Accuracy |** Moc tego ruchu się zwiększa i zadaje damage wszystkim Pokémonom przeciwnika podczas sandstorma, do tego ma 30% na paraliż podczas electric terrain
 
-[^4]: **| Physical | 80 BP | 10 PP | 100% Accuracy |** Moc tego ruchu się zwiększa i zadaje damage wszystkim Pokémonom przeciwnika podczas sandstorma, do tego ma 50% na paraliż podczas electric terrain
-
-[^5]: **| Physical | 25 BP | 20 PP | 95% Accuracy |** _Quill Shock bije 2-5 razy._
+[^4]: **| Physical | 25 BP | 20 PP | 95% Accuracy |** _Quill Shock bije 2-5 razy._

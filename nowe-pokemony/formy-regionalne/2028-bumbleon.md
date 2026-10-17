@@ -31,7 +31,7 @@ layout:
 
 <summary>Zobacz jak wygląda (Spoiler)</summary>
 
-<figure><img src="../../.gitbook/assets/empoleon_olorian_screen.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/bumbeeon_screen.png" alt=""><figcaption></figcaption></figure>
 
 </details>
 
@@ -39,7 +39,7 @@ layout:
 
 <summary>SHINY!! (Spoiler)</summary>
 
-<figure><img src="../../.gitbook/assets/empoleon_olorian_shiny_screen.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/bumbeeon_shiny_screen.png" alt=""><figcaption></figcaption></figure>
 
 </details>
 {% endcolumn %}
@@ -60,7 +60,7 @@ layout:
 ***
 
 <mark style="color:$info;">Abilities</mark> [Honey Gather](#user-content-fn-1)[^1]\
-&#x20;             [Velvet Coat](#user-content-fn-2)[^2] <mark style="color:$info;">(Hidden Ability)</mark>
+&#x20;             Honeycomb[^2] <mark style="color:$info;">(Hidden Ability)</mark>
 
 ***
 
@@ -196,9 +196,7 @@ layout:
 
 ### **Drzewko ewolucyjne**
 
-<h4 align="center">  <a href="https://pokemondb.net/pokedex/eevee">Eevee</a>        —>        <a href="2028-bumbleon.md">Bumleon</a><br><img src="../../.gitbook/assets/normal.png" alt="">      <sup>(use Silver Powder)</sup>     <img src="../../.gitbook/assets/bug.png" alt=""></h4>
-
-
+<h4 align="center">  <a href="https://pokemondb.net/pokedex/eevee">Eevee</a>        —>        <a href="2028-bumbleon.md">Bumleon</a><br><img src="../../.gitbook/assets/normal.png" alt="">      <sup>(use Bee Nest in</sup>     <img src="../../.gitbook/assets/bug.png" alt=""><br><sup>Floral biome)</sup></h4>
 
 {% columns %}
 {% column %}
@@ -235,6 +233,7 @@ layout:
 <mark style="color:$info;">1</mark>  ![](../../.gitbook/assets/normal.png) Double-Edge\
 <mark style="color:$info;">1</mark>  ![](../../.gitbook/assets/normal.png) Growl\
 <mark style="color:$info;">1</mark>  ![](../../.gitbook/assets/normal.png) Helping Hand\
+<mark style="color:$info;">1</mark>  ![](../../.gitbook/assets/poison.png) Poison Sting\
 <mark style="color:$info;">1</mark>  ![](../../.gitbook/assets/normal.png) Tackle\
 <mark style="color:$info;">1</mark>  ![](../../.gitbook/assets/normal.png) Tailwhip\
 <mark style="color:$info;">1</mark>  ![](../../.gitbook/assets/normal.png) Take Down\
@@ -254,20 +253,53 @@ layout:
 {% column %}
 #### Uczone poprzez TM
 
-Ekskluzywne dla regionalnej formy:
-
-![](../../.gitbook/assets/fighting.png) Focus Blast\
-![](../../.gitbook/assets/fighting.png) Low Sweep\
-![](../../.gitbook/assets/ice.png) Mist\
-![](../../.gitbook/assets/fairy.png) Misty Terrain\
-![](../../.gitbook/assets/water.png) Wave Crash
-
-#### Reszte można sprawdzić na [Pokemon Database](https://pokemondb.net/pokedex/empoleon)
-
-<sub><mark style="color:$info;">Wszystkie ruchy są dodawane ręcznie, dlatego reszta nie została wypisana<mark style="color:$info;"></sub>
+![](../../.gitbook/assets/flying.png) Aerial Ace\
+![](../../.gitbook/assets/flying.png) Air Slash\
+![](../../.gitbook/assets/fairy.png) Alluring Voice\
+![](../../.gitbook/assets/bug.png) Attack Order\
+![](../../.gitbook/assets/normal.png) Baton Pass\
+![](../../.gitbook/assets/normal.png) Body Slam\
+![](../../.gitbook/assets/bug.png) Bug Buzz\
+![](../../.gitbook/assets/psychic.png) Calm Mind\
+![](../../.gitbook/assets/fairy.png) Charm\
+![](../../.gitbook/assets/ghost.png) Curse\
+![](../../.gitbook/assets/bug.png) Defense Order\
+![](../../.gitbook/assets/ground.png) Dig\
+![](../../.gitbook/assets/normal.png) Double-Edge\
+![](../../.gitbook/assets/flying.png) Dual Wingbeat\
+![](../../.gitbook/assets/normal.png) Endure\
+![](../../.gitbook/assets/normal.png) Facade\
+![](../../.gitbook/assets/dark.png) Fake Tears\
+![](../../.gitbook/assets/bug.png) Heal Order\
+![](../../.gitbook/assets/normal.png) Helping Hand\
+![](../../.gitbook/assets/normal.png) Hyper Voice\
+![](../../.gitbook/assets/bug.png) Lunge\
+![](../../.gitbook/assets/ground.png) Mud-Slap\
+![](../../.gitbook/assets/bug.png) Pounce\
+![](../../.gitbook/assets/normal.png) Protect\
+![](../../.gitbook/assets/water.png) Rain Dance\
+![](../../.gitbook/assets/psychic.png) Rest\
+![](../../.gitbook/assets/normal.png) Roar\
+![](../../.gitbook/assets/ghost.png) Shadow Ball\
+![](../../.gitbook/assets/bug.png) Skitter Smack\
+![](../../.gitbook/assets/normal.png) Sleep Talk\
+![](../../.gitbook/assets/poison.png) Sludge Bomb\
+![](../../.gitbook/assets/psychic.png) Stored Power\
+![](../../.gitbook/assets/bug.png) Struggle Bug\
+![](../../.gitbook/assets/normal.png) Substitute\
+![](../../.gitbook/assets/fire.png) Sunny Day\
+![](../../.gitbook/assets/normal.png) Swift\
+![](../../.gitbook/assets/normal.png) Take Down\
+![](../../.gitbook/assets/normal.png) Tera Blast\
+![](../../.gitbook/assets/grass.png) Trailblaze\
+![](../../.gitbook/assets/bug.png) U-Turn\
+![](../../.gitbook/assets/poison.png) Venoshock\
+![](../../.gitbook/assets/normal.png) Weather Ball\
+![](../../.gitbook/assets/normal.png) Work Up\
+![](../../.gitbook/assets/bug.png) X-Scissor
 {% endcolumn %}
 {% endcolumns %}
 
 [^1]: Po zakończeniu walki, Pokémon z _Honey Gather_ może podnieść miód jako held item
 
-[^2]: _Velvet Coat_ redukuje obrażenia z  Fire-type i Flying-type ruchów o 50% również redukuje otrzymane obrażenia z super-effective ataków o 25%.
+[^2]: Fluffy + Gooey

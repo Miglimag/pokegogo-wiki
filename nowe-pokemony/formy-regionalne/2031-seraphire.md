@@ -264,7 +264,7 @@ layout:
 ![](../../.gitbook/assets/fire.png) Fire Blast\
 ![](../../.gitbook/assets/fire.png) Fire Punch\
 ![](../../.gitbook/assets/fire.png) Fire Spin\
-![](../../.gitbook/assets/fire.png) Fire Charge\
+![](../../.gitbook/assets/fire.png) Flame Charge\
 ![](../../.gitbook/assets/fire.png) Flamethrower\
 ![](../../.gitbook/assets/fire.png) Flare Blitz\
 ![](../../.gitbook/assets/steel.png) Flash Cannon\
@@ -281,7 +281,7 @@ layout:
 ![](../../.gitbook/assets/normal.png) Protect\
 ![](../../.gitbook/assets/normal.png) Psych Up\
 ![](../../.gitbook/assets/psychic.png) Psychic\
-![](../../.gitbook/assets/psychic.png) Psychock\
+![](../../.gitbook/assets/psychic.png) Psyshock\
 ![](../../.gitbook/assets/fighting.png) Quick Guard\
 ![](../../.gitbook/assets/psychic.png) Reflect\
 ![](../../.gitbook/assets/psychic.png) Rest\

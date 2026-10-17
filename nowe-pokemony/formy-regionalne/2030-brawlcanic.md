@@ -265,7 +265,7 @@ layout:
 ![](../../.gitbook/assets/fire.png) Fire Blast\
 ![](../../.gitbook/assets/fire.png) Fire Punch\
 ![](../../.gitbook/assets/fire.png) Fire Spin\
-![](../../.gitbook/assets/fire.png) Fire Charge\
+![](../../.gitbook/assets/fire.png) Flame Charge\
 ![](../../.gitbook/assets/fire.png) Flamethrower\
 ![](../../.gitbook/assets/fire.png) Flare Blitz\
 ![](../../.gitbook/assets/dark.png) Fling\
