@@ -1,6 +1,12 @@
 ---
+cover: .gitbook/assets/mig.jpg
+coverY: 0
 layout:
   width: wide
+  cover:
+    visible: true
+    size: full
+    mask: none
   title:
     visible: true
   description:
@@ -33,7 +39,7 @@ layout:
 
 <h3 align="center">✨ Nowości ✨</h3>
 
-<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><h4><strong>Nowy Region!</strong></h4><p>Nasz serwer wprowadził nowy, własno zrobiony region z orginalnymi formami regionalnymi.</p></td><td><a href="nowe-pokemony/formy-regionalne/">formy-regionalne</a></td></tr><tr><td align="center"><h4>Battle Tower</h4><p>Poczuj nutkę wyzwania w naszym nowym <em>Battle Towerze</em> pełnym bitw Pokémon</p></td><td><a href="co-oferujemy/or-battle-tower.md">or-battle-tower.md</a></td></tr><tr><td align="center"><h4>Dungeony</h4><p>Wkrocz w ryzykowne terytoria <em>Dungeonów</em>, gdzie zmierzysz się z dzikimi Pokémona w walce mieczem</p></td><td><a href="co-oferujemy/or-dungeony.md">or-dungeony.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td align="center"><h4><strong>Nowy Region!</strong></h4><p>Nasz serwer wprowadził nowy, własno zrobiony region z orginalnymi formami regionalnymi.</p></td><td><a href="nowe-pokemony/formy-regionalne/">formy-regionalne</a></td><td></td></tr><tr><td align="center"><h4>Battle Tower</h4><p>Poczuj nutkę wyzwania w naszym nowym <em>Battle Towerze</em> pełnym bitw Pokémon</p></td><td><a href="co-oferujemy/or-battle-tower.md">or-battle-tower.md</a></td><td data-object-fit="cover"><a href=".gitbook/assets/baner_z_logiem.png">baner_z_logiem.png</a></td></tr><tr><td align="center"><h4>Dungeony</h4><p>Wkrocz w ryzykowne terytoria <em>Dungeonów</em>, gdzie zmierzysz się z dzikimi Pokémona w walce mieczem</p></td><td><a href="co-oferujemy/or-dungeony.md">or-dungeony.md</a></td><td></td></tr></tbody></table>
 
 ***
 
