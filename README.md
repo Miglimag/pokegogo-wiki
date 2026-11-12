@@ -1,7 +1,7 @@
 ---
 cover: .gitbook/assets/kurwy.png
 coverY: 257.7086513994911
-coverHeight: 323
+coverHeight: 475
 layout:
   width: wide
   cover:
