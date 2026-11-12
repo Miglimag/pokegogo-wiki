@@ -17,6 +17,8 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # Launcher
@@ -25,14 +27,12 @@ layout:
 {% step %}
 ### Krok 1: Zainstaluj Nasz Launcher
 
-1. Idź na naszą strone [Pokemongogo.pl](https://www.pokemongogo.pl/#launcher)
+1. Idź na naszą strone [Pokegogo.pl](https://www.pokemongogo.pl/#launcher)
 2. Kliknij przycisk Pobierz dla twojego systemu (**Windows**, **Linux**)
 3. Odpal zainstalowany Instaler i kontynuuj z nim
 {% endstep %}
 
 {% step %}
-###
-
-
+### Po co tu nadal jesteś
 {% endstep %}
 {% endstepper %}

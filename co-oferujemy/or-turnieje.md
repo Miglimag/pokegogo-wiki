@@ -24,3 +24,4 @@ layout:
 
 # 🚩| Turnieje
 
+Każdy turniej ma ustalony tier, jakie pokemony się znajdują w danym tierze możesz zobaczyć [**Tutaj**](https://docs.google.com/document/d/11PrSLL5uoFeuxBz2stTq7y1jn8OA7MMTHcFXxoA09m4/edit?tab=t.0)**.**

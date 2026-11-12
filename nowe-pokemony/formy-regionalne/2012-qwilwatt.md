@@ -21,7 +21,7 @@ layout:
     visible: true
 ---
 
-# #2037 - Qwilwatt
+# #2012 - Qwilwatt
 
 {% columns %}
 {% column width="50%" %}
@@ -65,7 +65,7 @@ layout:
 
 ***
 
-<mark style="color:$info;">Local №</mark> #0037
+<mark style="color:$info;">Local №</mark> #0012
 
 ***
 
@@ -197,7 +197,7 @@ layout:
 
 ### **Drzewko ewolucyjne**
 
-<h4 align="center"><a href="2037-qwilwatt.md">Qwilwatt</a>     —>     <a href="2038-overqwatt.md">Overqwatt</a><br><img src="../../.gitbook/assets/ground.png" alt=""><img src="../../.gitbook/assets/electric.png" alt="">        <sup>(learn Dig)</sup>        <img src="../../.gitbook/assets/ground.png" alt=""><img src="../../.gitbook/assets/electric.png" alt=""></h4>
+<h4 align="center"><a href="2012-qwilwatt.md">Qwilwatt</a>     —>     <a href="2013-overqwatt.md">Overqwatt</a><br><img src="../../.gitbook/assets/ground.png" alt=""><img src="../../.gitbook/assets/electric.png" alt="">        <sup>(learn Dig)</sup>        <img src="../../.gitbook/assets/ground.png" alt=""><img src="../../.gitbook/assets/electric.png" alt=""></h4>
 
 
 

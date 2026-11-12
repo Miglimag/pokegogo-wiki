@@ -20,6 +20,7 @@
 * [🚩| Turnieje](co-oferujemy/or-turnieje.md)
 * [♟️| Gildie](co-oferujemy/or-gildie.md)
 * [🎱| Bingo](co-oferujemy/or-bingo.md)
+* [🐺| Alfy](co-oferujemy/or-alfy.md)
 
 ## Nowe Pokemony
 
@@ -31,15 +32,15 @@
   * [#2007 - Oloriański Piplup](nowe-pokemony/formy-regionalne/2007-olorianski-piplup.md)
   * [#2008 - Oloriański Prinplup](nowe-pokemony/formy-regionalne/2008-olorianski-prinplup.md)
   * [#2009 - Oloriański Empoleon](nowe-pokemony/formy-regionalne/2009-olorianski-empoleon.md)
+  * [#2010 - Bumbleon](nowe-pokemony/formy-regionalne/2010-bumbleon.md)
+  * [#2011 - Draconeon](nowe-pokemony/formy-regionalne/2011-draconeon.md)
+  * [#2012 - Qwilwatt](nowe-pokemony/formy-regionalne/2012-qwilwatt.md)
+  * [#2013 - Overqwatt](nowe-pokemony/formy-regionalne/2013-overqwatt.md)
   * [#2017 - Geoscue](nowe-pokemony/formy-regionalne/2017-geoscue.md)
   * [#2018 - Struthioroc](nowe-pokemony/formy-regionalne/2018-struthioroc.md)
   * [#2019 - Moltmor](nowe-pokemony/formy-regionalne/2019-moltmor.md)
-  * [#2028 - Bumbleon](nowe-pokemony/formy-regionalne/2028-bumbleon.md)
-  * [#2029 - Draconeon](nowe-pokemony/formy-regionalne/2029-draconeon.md)
   * [#2030 - Brawlcanic](nowe-pokemony/formy-regionalne/2030-brawlcanic.md)
   * [#2031 - Seraphire](nowe-pokemony/formy-regionalne/2031-seraphire.md)
-  * [#2037 - Qwilwatt](nowe-pokemony/formy-regionalne/2037-qwilwatt.md)
-  * [#2038 - Overqwatt](nowe-pokemony/formy-regionalne/2038-overqwatt.md)
   * [#2039 - Oloriański Solosis](nowe-pokemony/formy-regionalne/2039-olorianski-solosis.md)
   * [#2040 - Oloriański Duosion](nowe-pokemony/formy-regionalne/2040-olorianski-duosion.md)
   * [#2041 - Oloriański Reuniclus](nowe-pokemony/formy-regionalne/2041-olorianski-reuniclus.md)
