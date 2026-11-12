@@ -1,7 +1,7 @@
 ---
-cover: .gitbook/assets/torta-main.png
-coverY: 146.31463984557553
-coverHeight: 357
+cover: .gitbook/assets/kurwy.png
+coverY: 257.7086513994911
+coverHeight: 323
 layout:
   width: wide
   cover:
