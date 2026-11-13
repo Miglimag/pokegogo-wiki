@@ -1,6 +1,6 @@
 ---
-cover: .gitbook/assets/kurwy.png
-coverY: 257.7086513994911
+cover: .gitbook/assets/Zajebie-was.png
+coverY: -142.8872549019608
 coverHeight: 475
 layout:
   width: wide
