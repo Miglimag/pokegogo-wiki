@@ -1,7 +1,7 @@
 ---
 cover: .gitbook/assets/Zajebie-was.png
 coverY: -142.8872549019608
-coverHeight: 475
+coverHeight: 561
 layout:
   width: wide
   cover:
